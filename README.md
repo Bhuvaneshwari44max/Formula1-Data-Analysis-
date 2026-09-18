@@ -21,6 +21,7 @@ Approach
 Dashboard
 
 Built in Tableau Public, five charts:
+[Live Dashboard](https://public.tableau.com/app/profile/bhuvaneshwari.b6518/viz/F1CompetitiveBalanceRace-DayPerformance/OverallDashboard?publish=yes)
 
 1. Grid Position vs. Finish Position — scatter, shows the relationship between starting and finishing spot
 2. Average Finish Position Over Time — season-by-season trend
